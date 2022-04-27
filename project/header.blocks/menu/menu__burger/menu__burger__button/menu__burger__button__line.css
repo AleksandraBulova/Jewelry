@@ -1,0 +1,26 @@
+.menu__burger__button__line,
+.menu__burger__button__line::before,
+.menu__burger__button__line::after {
+  position: absolute;
+  top: 50%;
+  margin-top: -1px;
+  left: 50%;
+  margin-left: -10px;
+  width: 20px;
+  height: 2px;
+  background-color: #fff;
+}
+
+.menu__burger__button__line::before,
+.menu__burger__button__line::after {
+  content: "";
+  transition: 0.5s;
+}
+
+.menu__burger__button__line::before {
+  transform: translateY(-5px);
+}
+
+.menu__burger__button__line::after {
+  transform: translateY(5px);
+}

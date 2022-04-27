@@ -1,0 +1,14 @@
+@import "header.blocks/header.css";
+@import "header.blocks/logo/logo.css";
+@import "header.blocks/logo/logo__img.css";
+@import "header.blocks/menu/menu.css";
+@import "header.blocks/menu/menu__burger/menu__burger.css";
+@import "header.blocks/menu/menu__burger/menu__burger__button/menu__burger__button.css";
+@import "header.blocks/menu/menu__burger/menu__burger__button/menu__burger__button__line.css";
+@import "header.blocks/menu/menu__navigation/menu__navigation.css";
+@import "header.blocks/menu/menu__navigation/menu__navigation_img.css";
+
+.wrapper {
+  margin: 0;
+  padding: 0 48px;
+}
