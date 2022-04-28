@@ -1,4 +1,5 @@
 .languages__button {
   border: none;
   background-color: #FFF;
+  cursor: pointer;
 }

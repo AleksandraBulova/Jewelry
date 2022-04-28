@@ -32,8 +32,10 @@
 @import "main.blocks/collection-section/collection_text.css";
 @import "main.blocks/collection-section/collection__man/collection__man.css";
 @import "main.blocks/collection-section/collection__man/collection__man__img.css";
+@import "main.blocks/collection-section/collection__man/collection__man_right.css";
 @import "main.blocks/collection-section/collection__woman/collection__woman.css";
 @import "main.blocks/collection-section/collection__woman/collection__woman__img.css";
+@import "main.blocks/collection-section/collection__woman/collection__woman_right.css";
 
 
 .wrapper {
