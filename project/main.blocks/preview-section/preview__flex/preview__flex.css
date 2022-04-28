@@ -1,0 +1,6 @@
+.preview__flex {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  height: 624px;
+}
