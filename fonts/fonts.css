@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Forum";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./Forum.ttf") format("ttf"),
+}
+
+@font-face {
+  font-family: "SegoeUI-Light";
+  font-style: italic;
+  font-weight: 300;
+  src: url("./SegoeUI-Light.ttf") format("ttf"),
+}
+
+@font-face {
+  font-family: "FuturaPT-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("./FuturaPT-Light.ttf") format("ttf"),
+}
+
+@font-face {
+  font-family: "FuturaPT-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./FuturaPT-Regular.ttf") format("ttf"),
+}
