@@ -25,6 +25,16 @@
 @import "main.blocks/preview-section/preview__flex/description/description.css";
 @import "main.blocks/preview-section/preview__flex/description/description__firm.css";
 @import "main.blocks/preview-section/preview__flex/description/description__material.css";
+@import "main.blocks/collection-section/collection.css";
+@import "main.blocks/collection-section/collection_decor-line.css";
+@import "main.blocks/collection-section/collection_name.css";
+@import "main.blocks/collection-section/collection_section.css";
+@import "main.blocks/collection-section/collection_text.css";
+@import "main.blocks/collection-section/collection__man/collection__man.css";
+@import "main.blocks/collection-section/collection__man/collection__man__img.css";
+@import "main.blocks/collection-section/collection__woman/collection__woman.css";
+@import "main.blocks/collection-section/collection__woman/collection__woman__img.css";
+
 
 .wrapper {
   margin: 0;
