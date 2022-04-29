@@ -61,6 +61,26 @@
 @import "main.blocks/location-section/location__map/location__map__points/location__map__points__nameplate-address/location__map__points__nameplate-address.css";
 @import "main.blocks/location-section/location__map/location__map__points/location__map__points__nameplate-address/location__map__points__nameplate-address__text.css";
 
+@import "main.blocks/jewelry-section/jewelry.css";
+@import "main.blocks/jewelry-section/jewelry__color&position.css";
+@import "main.blocks/jewelry-section/jewelry__font&size&color__name.css";
+@import "main.blocks/jewelry-section/jewelry__font&size&color__description.css";
+@import "main.blocks/jewelry-section/jewelry__font&size&color__price.css";
+@import "main.blocks/jewelry-section/jewelry__ring/jewelry__ring.css";
+@import "main.blocks/jewelry-section/jewelry__ring/jewelry__ring__ring-jow/jewelry__ring__ring-jow.css";
+@import "main.blocks/jewelry-section/jewelry__ring/jewelry__ring__ring-jow/jewelry__ring__ring-jow__img.css";
+@import "main.blocks/jewelry-section/jewelry__ring/jewelry__ring__ring-croix/jewelry__ring__ring-croix.css";
+@import "main.blocks/jewelry-section/jewelry__ring/jewelry__ring__ring-croix/jewelry__ring__ring-croix__img.css";
+@import "main.blocks/jewelry-section/jewelry__necklace/jewelry__necklace.css";
+@import "main.blocks/jewelry-section/jewelry__necklace/jewelry__necklace__img.css"; 
+@import "main.blocks/jewelry-section/jewelry__necklace/jewelry__necklace__necklace-etoile/jewelry__necklace__necklace-etoile.css";
+@import "main.blocks/jewelry-section/jewelry__necklace/jewelry__necklace__necklace-etoile/jewelry__necklace__necklace-etoile__name_white.css";
+@import "main.blocks/jewelry-section/jewelry__earrings/jewelry__earrings.css";
+@import "main.blocks/jewelry-section/jewelry__earrings/jewelry__earrings__earrings-moon/jewelry__earrings__earrings-moon.css";
+@import "main.blocks/jewelry-section/jewelry__earrings/jewelry__earrings__earrings-moon/jewelry__earrings__earrings-moon__img.css";
+@import "main.blocks/jewelry-section/jewelry__earrings/jewelry__earrings__earrings-win/jewelry__earrings__earrings-win.css";
+@import "main.blocks/jewelry-section/jewelry__earrings/jewelry__earrings__earrings-win/jewelry__earrings__earrings-win__img.css";
+
 .wrapper {
   margin: 0;
   padding: 0 48px;
