@@ -1,0 +1,6 @@
+.location__map__points__cursor {
+  position: absolute;
+  z-index: 2;
+  bottom: 325px;
+  left: 280px;
+}

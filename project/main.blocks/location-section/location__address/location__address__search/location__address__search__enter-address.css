@@ -1,0 +1,9 @@
+.location__address__search__enter-address {
+  background: #272727;
+  border: none;
+  color: #FFF;
+}
+
+::placeholder {
+  font-size: 16px;
+}

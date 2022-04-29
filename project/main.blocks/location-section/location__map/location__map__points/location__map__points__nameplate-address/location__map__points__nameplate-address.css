@@ -1,0 +1,13 @@
+.location__map__points__nameplate-address {
+  position: absolute;
+  z-index: 3;
+  bottom: 430px;
+  left: 295px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 125px;
+  height: 30px;
+  background: rgba(103, 103, 103, 0.58);
+  border-radius: 2px;
+}

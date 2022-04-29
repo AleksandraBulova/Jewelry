@@ -1,0 +1,7 @@
+.location__address {
+  padding-left: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}

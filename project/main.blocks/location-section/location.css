@@ -1,0 +1,7 @@
+.location {
+  margin-top: 20px;
+  background: #272727;
+  display: flex;
+  justify-content: space-between;
+  gap: 155px;
+}

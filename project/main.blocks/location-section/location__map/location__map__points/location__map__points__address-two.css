@@ -1,0 +1,6 @@
+.location__map__points__address-two {
+  position: absolute;
+  z-index: 2;
+  bottom: 300px;
+  left: 365px;
+}
