@@ -7,7 +7,9 @@
 @import "header.blocks/menu/menu__burger/menu__burger__button/menu__burger__button__line.css";
 @import "header.blocks/menu/menu__navigation/menu__navigation.css";
 @import "header.blocks/menu/menu__navigation/menu__navigation_img.css";
+
 @import "main.blocks/main.css";
+
 @import "main.blocks/preview-section/preview.css";
 @import "main.blocks/preview-section/jewelry-ring/jewelry-ring.css";
 @import "main.blocks/preview-section/jewelry-ring/jewelry-ring__img.css";
@@ -25,6 +27,7 @@
 @import "main.blocks/preview-section/preview__flex/description/description.css";
 @import "main.blocks/preview-section/preview__flex/description/description__firm.css";
 @import "main.blocks/preview-section/preview__flex/description/description__material.css";
+
 @import "main.blocks/collection-section/collection.css";
 @import "main.blocks/collection-section/collection_decor-line.css";
 @import "main.blocks/collection-section/collection_name.css";
@@ -37,6 +40,26 @@
 @import "main.blocks/collection-section/collection__woman/collection__woman__img.css";
 @import "main.blocks/collection-section/collection__woman/collection__woman_right.css";
 
+@import "main.blocks/location-section/location.css";
+@import "main.blocks/location-section/location__address/location__address.css";
+@import "main.blocks/location-section/location__address/location__address__name-block.css";
+@import "main.blocks/location-section/location__address/location__address__text.css";
+@import "main.blocks/location-section/location__address/location__address__decor-line.css";
+@import "main.blocks/location-section/location__address/location__address__search/location__address__search.css";
+@import "main.blocks/location-section/location__address/location__address__search/location__address__search__enter-address.css";
+@import "main.blocks/location-section/location__address/location__address__search/location__address__search__button/location__address__search__button.css";
+@import "main.blocks/location-section/location__address/location__address__search/location__address__search__button/location__address__search__button__img.css";
+@import "main.blocks/location-section/location__map/location__map.css";
+@import "main.blocks/location-section/location__map/location__map__img.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__cursor.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__chief-address.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__address-one.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__address-two.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__address-three.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__address-four.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__nameplate-address/location__map__points__nameplate-address.css";
+@import "main.blocks/location-section/location__map/location__map__points/location__map__points__nameplate-address/location__map__points__nameplate-address__text.css";
 
 .wrapper {
   margin: 0;
