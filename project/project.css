@@ -96,6 +96,19 @@
 @import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__list/social-networks__scroll__list__point.css";
 @import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__list/social-networks__scroll__list__point_white.css";
 
+@import "main.blocks/link-section/link.css";
+@import "main.blocks/link-section/link__img.css";
+@import "main.blocks/link-section/link__form/link__form.css";
+@import "main.blocks/link-section/link__form/link__form__contact/link__form__contact.css";
+@import "main.blocks/link-section/link__form/link__form__contact/link__form__contact__name.css";
+@import "main.blocks/link-section/link__form/link__form__contact/link__form__contact__phone-number.css";
+@import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription.css";
+@import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription__name.css";
+@import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription_flex/link__form__subscription_flex.css";
+@import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription_flex/link__form__subscription__E-mail.css";
+@import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription_flex/link__form__subscription__E-mail__button/link__form__subscription__E-mail__button.css";
+@import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription_flex/link__form__subscription__E-mail__button/link__form__subscription__E-mail__button__img.css";
+
 
 .wrapper {
   margin: 0;
