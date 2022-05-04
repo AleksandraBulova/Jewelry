@@ -1,0 +1,5 @@
+.jewelry__ring {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

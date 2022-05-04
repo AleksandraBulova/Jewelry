@@ -1,0 +1,7 @@
+.jewelry__necklace__necklace-etoile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 30px;
+  height: 790px;
+}
