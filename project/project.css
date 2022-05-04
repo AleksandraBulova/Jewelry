@@ -92,8 +92,9 @@
 @import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__messengers/social-networks__messengers__facebook.css";
 @import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll.css";
 @import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__img-arrow.css";
-@import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__point.css";
-@import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__point_white.css";
+@import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__list/social-networks__scroll__list.css";
+@import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__list/social-networks__scroll__list__point.css";
+@import "main.blocks/social-networks-section/social-networks__footer-block_flex/social-networks__scroll/social-networks__scroll__list/social-networks__scroll__list__point_white.css";
 
 
 .wrapper {

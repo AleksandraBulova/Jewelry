@@ -1,0 +1,7 @@
+.social-networks__messengers__instagdram {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  background-color: #FFF;
+  border-radius: 50%;
+}

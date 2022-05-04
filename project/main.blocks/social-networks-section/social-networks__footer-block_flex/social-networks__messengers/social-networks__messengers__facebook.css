@@ -1,0 +1,7 @@
+.social-networks__messengers__facebook {
+  display: flex;
+  align-items: center;
+  padding: 8px 9px;
+  background-color: #FFF;
+  border-radius: 50%;
+}
