@@ -1,0 +1,5 @@
+.link__form__subscription {
+  display: flex;
+  flex-direction: column;
+  gap: 5px
+}

@@ -1,0 +1,10 @@
+.link__form__subscription__name {
+  margin: 0;
+  padding-bottom: 30px;
+  font-family: 'FuturaPT-Regular', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #272727;
+}
