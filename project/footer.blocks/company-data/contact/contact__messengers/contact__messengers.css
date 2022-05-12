@@ -1,0 +1,4 @@
+.contact__messengers {
+  display: flex;
+  gap: 15px;
+}

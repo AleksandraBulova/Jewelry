@@ -1,0 +1,7 @@
+.information-company {
+  display: flex;
+  gap: 65px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

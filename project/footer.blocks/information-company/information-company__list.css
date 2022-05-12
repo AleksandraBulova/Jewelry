@@ -1,0 +1,14 @@
+.information-company__list {
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-family: 'FuturaPT-Regular';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.information-company__list a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
