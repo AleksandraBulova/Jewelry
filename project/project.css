@@ -110,6 +110,30 @@
 @import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription_flex/link__form__subscription__E-mail__button/link__form__subscription__E-mail__button.css";
 @import "main.blocks/link-section/link__form/link__form__subscription/link__form__subscription_flex/link__form__subscription__E-mail__button/link__form__subscription__E-mail__button__img.css";
 
+@import "footer.blocks/footer.css";
+@import "footer.blocks/information-company/information-company.css";
+@import "footer.blocks/information-company/information-company__list.css"; 
+@import "footer.blocks/company-data/company-data.css";
+@import "footer.blocks/company-data/logo-company.css";
+@import "footer.blocks/company-data/contact/contact.css";
+@import "footer.blocks/company-data/contact/contact__name-block.css";
+@import "footer.blocks/company-data/contact/contact__phone-number.css";
+@import "footer.blocks/company-data/contact/contact__messengers/contact__messengers.css";
+@import "footer.blocks/company-data/contact/contact__messengers/contact__messengers__facebook.css";
+@import "footer.blocks/company-data/contact/contact__messengers/contact__messengers__instagdram.css";
+@import "footer.blocks/company-data/connection/connection.css";
+@import "footer.blocks/company-data/connection/subscription/subscription.css";
+@import "footer.blocks/company-data/connection/subscription/subscription__name-block.css";
+@import "footer.blocks/company-data/connection/subscription/subscription__flex/subscription__flex.css";
+@import "footer.blocks/company-data/connection/subscription/subscription__flex/subscription__E-mail.css";
+@import "footer.blocks/company-data/connection/subscription/subscription__flex/subscription__decor-line.css";
+@import "footer.blocks/company-data/connection/subscription/subscription__flex/subscription__button/subscription__button.css";
+@import "footer.blocks/company-data/connection/subscription/subscription__flex/subscription__button/subscription__button__img.css";
+@import "footer.blocks/company-data/connection/application/application.css";
+@import "footer.blocks/company-data/connection/application/application__button/application__button.css";
+@import "footer.blocks/company-data/connection/application/application__button/application__button__apple.css";
+@import "footer.blocks/company-data/connection/application/application__button/application__button__android.css";
+
 
 .wrapper {
   margin: 0;
